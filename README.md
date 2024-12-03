@@ -9,6 +9,9 @@ train.py是训练程序
 reason.py是推理程序
 best.pt best.onnx是模型参数
 check.py是再做数据集时去除垃圾数据的
+dataset下是部分train/val数据，完整的传不上来
+
+C++的onnx的实现一直出错，只写到了一部分在onnx/下
 
 
 
